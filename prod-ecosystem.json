@@ -1,6 +1,6 @@
 {
     "apps": [{
-      "name": "aniCharts",
+      "name": "digital-ocean-tutorial",
       "script": "npm run production",
       "args": "one two",
       "instances": 1,
