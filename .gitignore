@@ -1,0 +1,6 @@
+/node_modules
+/.idea
+.DS_Store
+/ssh-keys
+client/node_modules
+server/node_modules
