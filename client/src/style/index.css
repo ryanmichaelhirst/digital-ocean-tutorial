@@ -18,13 +18,13 @@ a {
 }
 
 .chart {
+    flex: 1 100%;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     display: inline-block;
-    margin: 10px 0 10px 10px;
+    margin: 10px;
 }
 
 .chart-sm {
-    width: 45%;
     height: 230px;
 }
 

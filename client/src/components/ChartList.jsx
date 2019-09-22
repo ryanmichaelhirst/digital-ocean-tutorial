@@ -35,9 +35,8 @@ const ChartList = ({ data, chartsPerRow, className, component, itemsPerChart, ca
         if (graphCount === chartsPerRow ||
             (ii === data.length - 1 && graphCount < chartsPerRow)
         ) {
-            const height = className === "chart-lg" ? 450 : 240;
             jsx.push(
-                <div style={{ height }} key={`chart-list-${listCount}`}>
+                <div style={{ height: 250, display: "flex" }} key={`chart-list-${listCount}`}>
                     {barCharts.map(chart => chart)}
                 </div>
             );
