@@ -13,7 +13,7 @@ You will learn:
 
 YouTube Tutorial: ----
 
-Live Demo: ----
+Live Demo: https://learntodeploy.com/
 
 ## Quick Start (localhost)
 ``digital-ocean-tutorial > npm install``
