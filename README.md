@@ -11,7 +11,7 @@ You will learn:
 6. How to setup your domain with Digital Ocean
 7. How to get and setup an SSL Certificate for FREE
 
-YouTube Tutorial: ----
+YouTube Tutorial: https://youtu.be/lN0oiYqenpA
 
 Live Demo: https://learntodeploy.com/
 
